@@ -53,7 +53,3 @@ def fazerCheckout(clienteFind):
     
         except:
             print("Vishh! fudeooooooo")
-
-
-
-
